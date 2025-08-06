@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "cgpa-calculator-ec1df"
-  }
+  },
+  "targets": {
+    "cgpa-calculator-ec1df": {
+      "hosting": {
+        "cgpa-calculator": [
+          "rit-cgpa-calculator-2025"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
